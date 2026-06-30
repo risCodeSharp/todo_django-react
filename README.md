@@ -8,7 +8,7 @@ It supports user authentication and full CRUD operations for todos.
 ## 🌐 Live Demo
 
 👉 **Website URL:**
-[https://candymanCrazyMad.pythonanywhere.com](https://candymanCrazyMad.pythonanywhere.com)
+(https://todosharp.netlify.app/)
 
 ---
 
