@@ -173,8 +173,8 @@ http://localhost:3000/
 
 ## 👨‍💻 Author
 
-Rishav (risCodeSharp)
-GitHub: https://github.com/risCodeSharp/todo_django-react/
+* Rishav (risCodeSharp)
+* GitHub: https://github.com/risCodeSharp/todo_django-react/
 
 ## 🔗 Project Repository
 
